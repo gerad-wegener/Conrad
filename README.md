@@ -27,6 +27,7 @@ I will be sending an email out over a period of time to update everyone on the s
 
 
 Goal:
+
 The goal of the project is to have a fun side project we work on as a team to achieve the following base functionality. 
 
   1) The drone will know when a person (not an animal) has entered it's protected zone.
@@ -41,6 +42,7 @@ There is no goal as of now to make this a profitable product in anyway. The grou
 
 
 Safty:
+
 After the drone gets built, it can be used by anybody to test anything they desire. Please do take extra precaution when using the drone, pi, or any physical pieces. I am planning on things getting physically broken throughout the project. That is completely ok, accidents happen, and the individual parts are cheap and easy to replace. When doing anything with the physical hardware, please try to take the most safe and cautious approach with everybody including yourself in mind. We usually deal with much more dangerous peices of equipment, but damage/harm can still be done and best if risky actions are avoided. Mostly for safty the drone should be flown indoors only, unless confident the drone won't damage or hurt anyone. My garage can be used as a trial space, but if you have your own indoor space also this is fine. Also this drone does have some powerful motors. Please wear clothes that cover your body, with safty glasses when flying the drone at all times. Please test the functionality indoors before letting the drone go outside. Also when testing outside, try to use a soft surface, away from people, and use a strong string of somesort to tether the drone to a stationary object, but not yourself. I have an outdoor dog leash that goes into the ground, and we can use strong twin to keep the drone from breaking away from the string. We want to keep the drone from flying off and potentially causing damage or harm, but we also want to make sure it wont hurt us in anyway also. On top of that the string will prevent the drone from potentially getting lost. The person who currently is in possession the drone would be the one who is responsbile if the drone damages or hurts anyone. The group will not be held responsible. I'll try to put as much protection pieces on the drone as possible, but nothing is gaurenteed. No one is responsible if the drone gets damaged in anyway, I'm expecting this to happen a lot. The most fragile pieces are the cheapest and the whole drone itself is not very expensive. Soft ground will help when the drone crashes. 
 
 Ready, set, INNOVATE!

@@ -8,23 +8,33 @@ This repo is for developers to work on creating and adding functionality to an a
 
 
     a) No coding can be done on work laptops
+    
     b) Work emails can not be associated with the project itself (Planning is fine, sharing code over work emails is not)
-    c) Nothing that the employers pay for can be used to develop this project (need our own personal resharper etc.)
+    
+    c) Nothing that the employers pay for can be used to develop this project (need our own personal resharper etc.)
 
 2) Do not distribute or use code you DID NOT develop outside this project, unless developer approves.
 
     a) While the project as a whole belongs to the group, individuals code should still belong to the individual.
+    
     b) If desired to use code someone else developed in a different project, get permission from that developer first.
+    
     c) If a developer creates something cool (like a fantastic machine learning algorithm), they may want to use it for their own personal project, or take it to a different group project. There are no rules on what you can do with code you developed yourself.
+    
     d) Any code checked into the repo can be used in the project by anybody, and can only be used as a reference outside the          project unless original developer says otherwise.
+    
     e) If you take existing code from someone and extend it within the project, you need to get permission from that developer        before taking it outside the project.
  
  3) Share and Collaborate :)
     
     a) This project is going to be complex, rewarding, and most of all... Fun!
+   
     b) Anyone can jump on any functionality piece they want too. They can even take a completely different approach to what          someone is doing/already did. Code in any language you want, work with whoever you want, or by yourself. 
+    
     c) New people can of course get added to the project. I would like to keep it closed to TGW specific people for the              project but if there's someone who really wants to get involved and help collaborate, by all means add them!     
+    
     d) When developing a piece of functionality try to have others test your code also so they can give constant critiques.
+    
     e) We can also use this as a positive opportunity to learn from each other. 
      
 (Also once the drone gets built, we might have to get a little more strict rules for safety.)

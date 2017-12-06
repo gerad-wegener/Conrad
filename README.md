@@ -3,8 +3,10 @@
 
 This repo is for developers to work on creating and adding functionality to an autonomous drone. There are no required sprints, reviews, planning etc. This project is for developers and collaborators to have fun coding, brainstorming and contributing anything they desire. Hopefully by the end, we will have a cool side project. There are only three main rules for now (There's no way to enforce these rules, so I'm more so just asking so everyone is happy as we constantly approach the end of the project.)
 
+
 1) Do not associate this project in anyway with the professional environment.
-    
+
+
     a) No coding can be done on work laptops
     b) Work emails can not be associated with the project itself (Planning is fine, sharing code over work emails is not)
     c) Nothing that the employers pay for can be used to develop this project (need our own personal resharper etc.)

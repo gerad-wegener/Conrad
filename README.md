@@ -13,6 +13,7 @@ This repo is for developers to work on creating and adding functionality to an a
     
     c) Nothing that the employers pay for can be used to develop this project (need our own personal resharper etc.)
 
+
 2) Do not distribute or use code you DID NOT develop outside this project, unless developer approves.
 
     a) While the project as a whole belongs to the group, individuals code should still belong to the individual.
@@ -24,7 +25,8 @@ This repo is for developers to work on creating and adding functionality to an a
     d) Any code checked into the repo can be used in the project by anybody, and can only be used as a reference outside the          project unless original developer says otherwise.
     
     e) If you take existing code from someone and extend it within the project, you need to get permission from that developer        before taking it outside the project.
- 
+
+
  3) Share and Collaborate :)
     
     a) This project is going to be complex, rewarding, and most of all... Fun!

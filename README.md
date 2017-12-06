@@ -10,7 +10,7 @@ This repo is for developers to work on creating and adding functionality to an a
     a) No coding can be done on work laptops
     
     b) Work emails can not be associated with the project itself (Planning is fine, sharing code over work emails is not)
-    
+    
     c) Nothing that the employers pay for can be used to develop this project (need our own personal resharper etc.)
 
 2) Do not distribute or use code you DID NOT develop outside this project, unless developer approves.

@@ -1,0 +1,9 @@
+C:\Users\Gerad\source\repos\Drone\HAPP-B\VoiceRecognition\VoiceRecognition\VoiceRecognition\bin\Debug\VoiceRecognition.pdb
+C:\Users\Gerad\source\repos\Drone\HAPP-B\VoiceRecognition\VoiceRecognition\VoiceRecognition\obj\Debug\VoiceRecognition.csproj.CoreCompileInputs.cache
+C:\Users\Gerad\source\repos\Drone\HAPP-B\VoiceRecognition\VoiceRecognition\VoiceRecognition\obj\Debug\VoiceRecognition.pdb
+C:\Users\Gerad\source\repos\Drone\HAPP-B\VoiceRecognition\VoiceRecognition\VoiceRecognition\obj\Debug\VoiceRecognition.csprojResolveAssemblyReference.cache
+C:\Users\Gerad\source\repos\Drone\HAPP-B\VoiceRecognition\VoiceRecognition\VoiceRecognition\obj\Debug\VoiceRecognition.Voice_Display.resources
+C:\Users\Gerad\source\repos\Drone\HAPP-B\VoiceRecognition\VoiceRecognition\VoiceRecognition\obj\Debug\VoiceRecognition.csproj.GenerateResource.Cache
+C:\Users\Gerad\source\repos\Drone\HAPP-B\VoiceRecognition\VoiceRecognition\VoiceRecognition\bin\Debug\VoiceRecognition.dll.config
+C:\Users\Gerad\source\repos\Drone\HAPP-B\VoiceRecognition\VoiceRecognition\VoiceRecognition\bin\Debug\VoiceRecognition.dll
+C:\Users\Gerad\source\repos\Drone\HAPP-B\VoiceRecognition\VoiceRecognition\VoiceRecognition\obj\Debug\VoiceRecognition.dll

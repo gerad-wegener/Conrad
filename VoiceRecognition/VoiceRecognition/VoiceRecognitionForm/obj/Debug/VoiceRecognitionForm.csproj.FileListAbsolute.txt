@@ -1,0 +1,10 @@
+C:\Users\Gerad\source\repos\Drone\HAPP-B\VoiceRecognition\VoiceRecognition\VoiceRecognitionForm\obj\Debug\VoiceRecognitionForm.Voice_Display.resources
+C:\Users\Gerad\source\repos\Drone\HAPP-B\VoiceRecognition\VoiceRecognition\VoiceRecognitionForm\obj\Debug\VoiceRecognitionForm.Properties.Resources.resources
+C:\Users\Gerad\source\repos\Drone\HAPP-B\VoiceRecognition\VoiceRecognition\VoiceRecognitionForm\obj\Debug\VoiceRecognitionForm.csproj.GenerateResource.Cache
+C:\Users\Gerad\source\repos\Drone\HAPP-B\VoiceRecognition\VoiceRecognition\VoiceRecognitionForm\obj\Debug\VoiceRecognitionForm.csproj.CoreCompileInputs.cache
+C:\Users\Gerad\source\repos\Drone\HAPP-B\VoiceRecognition\VoiceRecognition\VoiceRecognitionForm\bin\Debug\VoiceRecognitionForm.exe.config
+C:\Users\Gerad\source\repos\Drone\HAPP-B\VoiceRecognition\VoiceRecognition\VoiceRecognitionForm\bin\Debug\VoiceRecognitionForm.exe
+C:\Users\Gerad\source\repos\Drone\HAPP-B\VoiceRecognition\VoiceRecognition\VoiceRecognitionForm\bin\Debug\VoiceRecognitionForm.pdb
+C:\Users\Gerad\source\repos\Drone\HAPP-B\VoiceRecognition\VoiceRecognition\VoiceRecognitionForm\obj\Debug\VoiceRecognitionForm.exe
+C:\Users\Gerad\source\repos\Drone\HAPP-B\VoiceRecognition\VoiceRecognition\VoiceRecognitionForm\obj\Debug\VoiceRecognitionForm.pdb
+C:\Users\Gerad\source\repos\Drone\HAPP-B\VoiceRecognition\VoiceRecognition\VoiceRecognitionForm\obj\Debug\VoiceRecognitionForm.csprojResolveAssemblyReference.cache

@@ -1,12 +1,7 @@
-=============================
-Conrad 
-Image Recognition
-README.md
-=============================
+Conrad - Image Recognition
+=======
 
-=============================
-Environment
------------------------------
+## Environment
 Ubuntu 17.10 x86-64 - artful
     $lsb_release -a
 kernel 4.13.0-16-generic
@@ -25,21 +20,17 @@ Kernel headers
     $sudo apt-get install linux-headers-$(uname -r)
 Cuda toolkit
     cuda-repo-ubuntu1704-9-0-local_9.0.176-1_amd64.deb
-Tensor Flow 
-    
-=============================
+Tensor Flow
 
-=============================
-References
------------------------------
-https://www.tensorflow.org/install/install_linux
-http://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html#pre-installation-actions
-=============================
+## References
+
+[Tensor Flow Installation Guide](https://www.tensorflow.org/install/install_linux
+http://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html#pre-installation-actions)
 
 
-TODO
+## TODO
 Step 0
-Left off - 
+Left off -
 Cuda at this time does not support gcc 7
 We need to use an older gcc (6)
 https://askubuntu.com/questions/26498/choose-gcc-and-g-version
@@ -52,3 +43,4 @@ Step 2
 Pickup installation at 4 - Runfile Installation
 http://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html#pre-installation-actions
 
+Consider using a CUDA docker container.
